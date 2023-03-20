@@ -7,14 +7,15 @@ function AboutCard() {
     <Card className="quote-card-view">
       <Card.Body>
         <blockquote className="blockquote mb-0">
-          <p style={{ textAlign: "justify" }}>
+          <p style={{ textAlign: "center" }}>
             Hi Everyone, I am <span className="purple">David Scherrey III </span>
             from <span className="purple"> Seattle, Washington.</span>
             <br />I am a recent grad with a Bachelor's degree in Business Administration - Management and a minor in Applied Computing from the University of Washington - Tacoma.
             <br />
             <br />
-            Apart from coding, here are some other activities that I love to do!
+            Apart from coding and learning about cloud services, here are some other activities that I love to do!
           </p>
+        <div style={{ textAlign: "center" }}>
           <ul>
             <li className="about-activity">
               <ImPointRight /> Playing Chess
@@ -26,6 +27,7 @@ function AboutCard() {
               <ImPointRight /> Traveling
             </li>
           </ul>
+        </div>
 
           <p style={{ color: "rgb(155 126 172)" }}>
           "Learning is not a destination, it's a continuous journey that empowers you to conquer new horizons and reach for the stars."{" "}

@@ -1,9 +1,8 @@
 <h2 align="center">
-  Portfolio Website - v2.0<br/>
-  <a href="https://soumyajit.vercel.app/" target="_blank">soumyajit.tech</a>
+  Portfolio Website
 </h2>
 
-<br/>
+[![Homepage.png](https://i.postimg.cc/rpNtk9j5/Homepage.png)](https://postimg.cc/t17gdWLg)
 
 <center>
 
@@ -11,7 +10,7 @@
 
 ## Built With
 
-My personal portfolio <a href="https://soumyajit.vercel.app/" target="_blank">soumyajit.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio features some of my github projects as well as my resume and technical skills.<br/>
 
 This project was built using these technologies.
 
@@ -48,3 +47,4 @@ The page will reload if you make edits.
 
 Open the project folder and Navigate to `/src/components/`. <br/>
 You will find all the components used and you can edit your information accordingly.
+
