@@ -1,9 +1,6 @@
 <h2 align="center">
-  Portfolio Website - v2.0<br/>
-  <a href="https://soumyajit.vercel.app/" target="_blank">soumyajit.tech</a>
+  Portfolio Website
 </h2>
-
-<br/>
 
 [![Homepage.png](https://i.postimg.cc/rpNtk9j5/Homepage.png)](https://postimg.cc/t17gdWLg)
 
