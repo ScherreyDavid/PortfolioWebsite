@@ -5,7 +5,7 @@ import {
   DiJavascript1,
   DiReact,
   DiNodejs,
-  DiCloud9,
+  DiHtml5,
   DiPython,
   DiGit,
   DiWordpress,
@@ -31,7 +31,7 @@ function Techstack() {
         <DiReact />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
-        <DiCloud9 />
+        <DiHtml5 />
       </Col>
       <Col xs={4} md={2} className="tech-icons">
         <SiAmazondynamodb />
